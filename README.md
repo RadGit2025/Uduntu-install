@@ -135,17 +135,7 @@ brew install putty
 
 ---
 
-##  Contributing
 
-Feel free to fork this repo and improve the guide.
-
----
-
-## Support
-
-If this helped you, please  star the repository!
-
----
 
 
 
